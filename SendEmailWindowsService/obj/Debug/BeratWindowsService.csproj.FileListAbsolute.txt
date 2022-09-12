@@ -1,0 +1,8 @@
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\bin\Debug\BeratWindowsService.exe.config
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\bin\Debug\BeratWindowsService.exe
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\bin\Debug\BeratWindowsService.pdb
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\obj\Debug\BeratWindowsService.csproj.AssemblyReference.cache
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\obj\Debug\BeratWindowsService.csproj.SuggestedBindingRedirects.cache
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\obj\Debug\BeratWindowsService.csproj.CoreCompileInputs.cache
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\obj\Debug\BeratWindowsService.exe
+F:\Berat\NesneTabanlıProgramlama\BeratWindowsService\obj\Debug\BeratWindowsService.pdb
